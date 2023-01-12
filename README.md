@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 
-[![Elijah's github stats](https://github-readme-stats.vercel.app/api?username=Elijah\-Palmer2141)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=Elijah-Palmer2141
